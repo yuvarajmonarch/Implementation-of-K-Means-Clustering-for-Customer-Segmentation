@@ -54,7 +54,6 @@ plt.scatter(df4["Annual Income (k$)"],df4["Spending Score (1-100)"],c="magenta",
 plt.legend()
 plt.title("Customer Segments")
 
-
 */
 ```
 
@@ -78,7 +77,6 @@ plt.title("Customer Segments")
 
 #### Customer segments Graph
 ![Screenshot 2023-06-03 174648](https://github.com/Yamunaasri/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/assets/115707860/f6c560cf-f5bb-4719-b6a4-eefd4cece1e0)
-
 
 ## Result:
 Thus the program to implement the K Means Clustering for Customer Segmentation is written and verified using python programming.
